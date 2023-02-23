@@ -1,0 +1,611 @@
+{
+    "HOME_CONSTANTS": [
+        {
+            "HEADER_NAME_ONE": "we are",
+            "HEADER_NAME_ONE_COLOR": "redefining the way sports",
+            "HEADER_NAME_TWO": "is consumed across the globe",
+            "HEADER_SUB_TEXT": "We look to bring joy to the hardcore sports fan through Technology",
+            "JOURNEY_HEADER_ONE": "The journey",
+            "JOURNEY_HEADER_TWO": "so far has been amazing",
+            "JOURNEY_SUB_TEXT": "Super Six Sports Gaming was conceptualized in 2019 by 6 sports enthusiast who set out to make India’s No. 1 Sports Engagement Company. The idea is to delight customers and make the experience of engaging with sport more exciting than ever before.",
+            "VISION_HEADER": "What drive us daily?",
+            "VISION": "Vision",
+            "VISION_SUB_TEXT": "To Bring joy to the hardcore sports fan through Technology. To Bring joy to the hardcore sports fan through Technology.",
+            "MISSION": "Mission",
+            "MISSION_SUBTEXT": "Launch world class products in the domain of Sports on the back of Tech to drive sports engagement, create a sports ecosystem and build a legal, scalable & profitable business.",
+            "PRODUCT_HEADER_ONE": "We are Very proud of the products that have we build so far...",
+            "PRODUCT_HEADER_SUBTEXT": "Over the past 3 years, SSSG has provided world-class customer experience for sports fans in India.",
+            "PRODUCT_HEADER_TWO": "The SSSG Value System",
+            "PRODUCT_HEADER_TWO_SUBTEXT": "We swear by our Core Values which serve as guiding principles in our vision to bring joy to sports fans.",
+            "FOUNDING_HEADER_ONE": "our",
+            "FOUNDING_HEADER_TWO": "Founding Team",
+            "FOUNDING_HEADER_SUBTEXT": "Meet our visionary founders who bring their robust corporate experience, along with their love for sport, to drive a healthy culture and work environment.",
+            "JOIN_TEAM_HEADER": "Join our dynamic team!",
+            "JOIN_TEAM_SUBTEXT": "We firmly believe that an organisation is as good as the people who work for it. We love to pamper our employees as they deliver high quality work in our journey of creating India’s best sports ecosystem."
+        }
+    ],
+    "CAREER_CONSTANTS": [
+        {
+            "CAREER_HEADER": "Together, we can create success story",
+            "CAREER_HEADER_SUBTEXT": "We are a young organization, full of people who are passionate about bringing technology in the domain of sports and take pride in being a customer centric organization which believes in 100% transparency with our internal as well as external stakeholders.",
+            "CAREER_TEAM_HEADER_TEXT": "Our Team means everything to us, and providing a GREAT Workplace is our top priority!",
+            "CAREER_TEAM_HEADER_COLOR_TEXT": "We are now",
+            "VISION_HEADER_TEXT": "Our Vision",
+            "VISION_HEADER_SUBTEXT": "To bring JOY to hard-core sports fans through technology",
+            "OUR_VALUES_HEADER": "Our Values",
+            "OUR_VALUES_ONE": "Customer Centricity",
+            "OUR_VALUES_TWO": "Collaboration",
+            "OUR_VALUES_THREE": "Integrity",
+            "OUR_VALUES_FOUR": "Ownership",
+            "GLIMPUSES_HEADER": "glimpses of life at SSSG",
+            "GLIMPUSES_SUBTEXT": "Meet our visionary founders who bring their robust corporate experience, along with their love for sport, to drive a healthy culture and work environment."
+        }
+    ],
+    "TESTIMONIAL": [
+        {
+            "images": "/images/paramjeet@2x.png",
+            "name": "Paramjeet Kumar",
+            "role": "Head – Data Science",
+            "description": "As an analytics professional, I always believe that numbers have some interesting stories to tell! Sports Analytics is just the right place where you start seeing the hidden patterns coming into action very fast! My experience here has been full of motivation and enthusiasm because of the excellent work culture and the opportunity provided at all levels."
+        },
+        {
+            "images": "/images/mushkan.png",
+            "name": "Muskaan Sharma",
+            "role": "Graphic Designer",
+            "description": "As a creative person, I always like to be in a space where I get the freedom to experiment and do different things. Fantasy Akhada creates a workplace where people feel like they are a part of something bigger and their work is making a difference. The workplace is a healthy mix of collaboration and competition."
+        },
+        {
+            "images": "/images/ankit.png",
+            "name": "Aman Thakur",
+            "role": "Senior Associate, Business Planning",
+            "description": "Being a die-hard sports fan, especially cricket, for me it was a dream come true to work in a field that I am most passionate about. When I got the offer from Fantasy Akhada, to be one of their first employees, I decided to give my 200% to the company. Since day one, I have seen the organisation grow to newer heights almost daily."
+        },
+        {
+            "images": "/images/namrata.png",
+            "name": "Namrata Singh",
+            "role": "Program Manager – Marketing Operations",
+            "description": "If there’s one thing l love about my job, it is the freedom to express the many ideas that come to me."
+        },
+        {
+            "images": "/images/kalpit@2.png",
+            "name": "Kalpiit Pradhan",
+            "role": "Performance Marketing Manager",
+            "description": "I have worked with multiple organizations before but nothing compares to my experience at Fantasy Akhada. Every team I have met so far is full of motivation and enthusiasm. This place gives me the liberty to think out of the box and have fun while working. Fantasy Akhada can give you a career instead of a job."
+        }
+    ],
+    "STORY_TIMELINE_UP": [
+        {
+            "firstName": "Launched",
+            "lastName": "Fantasy Akhada",
+            "year": "Jan 2020"
+        },
+        {
+            "firstName": "Reached 10 lakh",
+            "lastName": "Active Users",
+            "year": "Nov 2021"
+        },
+        {
+            "firstName": "Conceptualized",
+            "lastName": "VUSPORT",
+            "year": "Jan 2022"
+        },
+        {
+            "firstName": "Biggest Ad campaign featuring",
+            "lastName": "Harsha Bhogle & Ali Fazal",
+            "year": "Apr 2022"
+        },
+        {
+            "firstName": "Launched",
+            "lastName": "VUsports Scouts",
+            "year": "Apr 2022"
+        },
+        {
+            "firstName": "Launched",
+            "lastName": "Basketball",
+            "year": "July 2022"
+        },
+        {
+            "firstName": "Reached 30 lakh",
+            "lastName": "Active Users",
+            "year": "Sep 2022"
+        },
+        {
+            "firstName": "closed pre-Series ",
+            "lastName": "B funding",
+            "year": "Jan 2023"
+        }
+    ],
+    "STORY_TIMELINE_DOWN": [
+        {
+            "firstName": "Harsha Bhogle joins as",
+            "lastName": "Brand Ambassador",
+            "year": "Aug 2020"
+        },
+        {
+            "firstName": "Launched",
+            "lastName": "Kabaddi",
+            "year": "Dec 2021"
+        },
+        {
+            "firstName": "Raised Series A",
+            "lastName": "funding",
+            "year": "Mar 2022"
+        },
+        {
+            "firstName": "Reached 20 lakh",
+            "lastName": "Active users",
+            "year": "Apr 2022"
+        },
+        {
+            "firstName": "Conducted USQ",
+            "lastName": "Season",
+            "year": "June 2022"
+        },
+        {
+            "firstName": "Launched Akhada 2.0",
+            "lastName": "revamped app",
+            "year": "July 2022"
+        },
+        {
+            "firstName": "USQ Season 2 kickstarted ",
+            "lastName": "With qualifying test",
+            "year": "Sep 2022"
+        }
+    ],
+    "PROGRESS_COUNTERS": [
+        {
+            "name": "Amazing Brands",
+            "value": "04"
+        },
+        {
+            "name": "SSSG Creative Nerds",
+            "value": "100+"
+        },
+        {
+            "name": "Dynamic Users",
+            "value": "3.5m+"
+        },
+        {
+            "name": "Dynamic Users",
+            "value": "$15m"
+        }
+    ],
+    "JOB_CARDS": [
+        {
+            "image": "images/illustration1@2x.png",
+            "title": "Senior GoLang Developer ",
+            "description": "Excellent knowledge and experience with React native minimum 3 year",
+            "apply": "APPLY KNOW"
+        },
+        {
+            "image": "images/illustration2@2x.png",
+            "title": " GoLang Developer",
+            "description": "Excellent knowledge and experience with React native minimum 3 year",
+            "apply": "APPLY KNOW"
+        },
+        {
+            "image": "images/illustration@2x.png",
+            "title": "QA Engineer",
+            "description": "Excellent knowledge and experience with React native minimum 3 year",
+            "apply": "APPLY KNOW"
+        },
+        {
+            "image": "images/illustration@2x.png",
+            "title": "Performance Marketing",
+            "description": "Excellent knowledge and experience with React native minimum 3 year",
+            "apply": "APPLY KNOW"
+        },
+        {
+            "image": "images/illustration@2x.png",
+            "title": "Senior GoLang Developer",
+            "description": "Excellent knowledge and experience with React native minimum 3 year",
+            "apply": "APPLY KNOW"
+        }
+    ],
+    "CARDS": [
+        {
+            "text": "Disproportionate Learning",
+            "subtext": "We take full responsibility for your career & financial growth Working in a fast-paced environment, we intend to expose our employees to various facets of their domain to make them rich with hands-on experience."
+        },
+        {
+            "text": "Work Life Balance",
+            "subtext": "We do not glorify working overtime in the name of “startup hustle or hyper growth mindset”. Efficiency is best driven when there is a solid work life balance for our team members, and we swear by this principle.."
+        },
+        {
+            "text": "Peace of Mind",
+            "subtext": "Comprehensive Medical Insurance Cover has been an integral part of our compensation structure right from the very beginning. We believe in taking care of you and your loved ones when you need us the most."
+        },
+        {
+            "text": "Wealth Creation",
+            "subtext": "Attractive compensation in line with the market along with our rich ESOP policy allows us to give our young and passionate team members a great shot at wealth creation."
+        },
+        {
+            "text": "Uninhibited Fun",
+            "subtext": "We take full responsibility for your career & financial growth Working in a fast-paced environment, we intend to expose our employees to various facets of their domain to make them rich with hands-on experience."
+        }
+    ],
+    "TEAM": {
+        "sumit-jha": {
+            "images": "/images/sumit.jpg",
+            "name": "Sumit Jha",
+            "slug": "sumit-jha",
+            "role": "Group coo",
+            "experienceTop": "Total Experience",
+            "experienceBottom": "10 Years",
+            "emailText": "Email Address",
+            "email": "dummymail@affle.com",
+            "description": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "professionalHeader": "Professional Experience",
+            "professionalExperience": "We know it’s hard to choose. The FOMO is real. Thankfully, you can have the best of both worlds – exchanges and wallets. It’s possible to easily move spending money out of an exchange into a spending wallet for your occasional bitcoin purchases. It’s also possible to store your bitcoin savings in a more secure software wallet while still getting access to the buying and selling features of bitcoin exchanges. Let us show you how.  ",
+            "expertise": [
+                "UX research",
+                "Wire framing",
+                "UX Writing",
+                "Interaction design",
+                "UI prototyping"
+            ],
+            "tools": [
+                "Adobe Xd",
+                "PhotoShop",
+                "Figma"
+            ]
+        },
+        "amit-purohit": {
+            "images": "/images/amit.jpg ",
+            "name": "Amit Purohit",
+            "slug": "amit-purohit",
+            "role": "Group coo",
+            "experienceTop": "Total Experience",
+            "experienceBottom": "10 Years",
+            "emailText": "Email Address",
+            "email": "dummymail@affle.com",
+            "description": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "professionalHeader": "Professional Experience",
+            "professionalExperience": "We know it’s hard to choose. The FOMO is real. Thankfully, you can have the best of both worlds – exchanges and wallets. It’s possible to easily move spending money out of an exchange into a spending wallet for your occasional bitcoin purchases. It’s also possible to store your bitcoin savings in a more secure software wallet while still getting access to the buying and selling features of bitcoin exchanges. Let us show you how.  ",
+            "expertise": [
+                "UX research",
+                "Wire framing",
+                "UX Writing",
+                "Interaction design",
+                "UI prototyping"
+            ],
+            "tools": [
+                "Adobe Xd",
+                "PhotoShop",
+                "Figma"
+            ]
+        },
+        "ankit-upreti": {
+            "images": "/images/ankit.jpg",
+            "name": "Ankit Upreti",
+            "slug": "ankit-upreti",
+            "role": "Group coo",
+            "experienceTop": "Total Experience",
+            "experienceBottom": "10 Years",
+            "emailText": "Email Address",
+            "email": "dummymail@affle.com",
+            "description": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "professionalHeader": "Professional Experience",
+            "professionalExperience": "We know it’s hard to choose. The FOMO is real. Thankfully, you can have the best of both worlds – exchanges and wallets. It’s possible to easily move spending money out of an exchange into a spending wallet for your occasional bitcoin purchases. It’s also possible to store your bitcoin savings in a more secure software wallet while still getting access to the buying and selling features of bitcoin exchanges. Let us show you how.  ",
+            "expertise": [
+                "UX research",
+                "Wire framing",
+                "UX Writing",
+                "Interaction design",
+                "UI prototyping"
+            ],
+            "tools": [
+                "Adobe Xd",
+                "PhotoShop",
+                "Figma"
+            ]
+        },
+        "amit-bhardwaj": {
+            "images": "/images/amit_bhar.png",
+            "name": "Amit Bhardwaj",
+            "slug": "amit-bhardwaj",
+            "role": "Group coo",
+            "experienceTop": "Total Experience",
+            "experienceBottom": "10 Years",
+            "emailText": "Email Address",
+            "email": "dummymail@affle.com",
+            "description": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "professionalHeader": "Professional Experience",
+            "professionalExperience": "We know it’s hard to choose. The FOMO is real. Thankfully, you can have the best of both worlds – exchanges and wallets. It’s possible to easily move spending money out of an exchange into a spending wallet for your occasional bitcoin purchases. It’s also possible to store your bitcoin savings in a more secure software wallet while still getting access to the buying and selling features of bitcoin exchanges. Let us show you how.  ",
+            "expertise": [
+                "UX research",
+                "Wire framing",
+                "UX Writing",
+                "Interaction design",
+                "UI prototyping"
+            ],
+            "tools": [
+                "Adobe Xd",
+                "PhotoShop",
+                "Figma"
+            ]
+        },
+        "sahil-ahuja": {
+            "images": "/images/sahil.jpg",
+            "name": "Sahil Ahuja",
+            "slug": "sahil-ahuja",
+            "role": "Group coo",
+            "experienceTop": "Total Experience",
+            "experienceBottom": "10 Years",
+            "emailText": "Email Address",
+            "email": "dummymail@affle.com",
+            "description": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "professionalHeader": "Professional Experience",
+            "professionalExperience": "We know it’s hard to choose. The FOMO is real. Thankfully, you can have the best of both worlds – exchanges and wallets. It’s possible to easily move spending money out of an exchange into a spending wallet for your occasional bitcoin purchases. It’s also possible to store your bitcoin savings in a more secure software wallet while still getting access to the buying and selling features of bitcoin exchanges. Let us show you how.  ",
+            "expertise": [
+                "UX research",
+                "Wire framing",
+                "UX Writing",
+                "Interaction design",
+                "UI prototyping"
+            ],
+            "tools": [
+                "Adobe Xd",
+                "PhotoShop",
+                "Figma"
+            ]
+        },
+        "pratik-gosar": {
+            "images": "/images/pratik.jpg",
+            "name": "Pratik",
+            "slug": "pratik-gosar",
+            "role": "Group coo",
+            "experienceTop": "Total Experience",
+            "experienceBottom": "10 Years",
+            "emailText": "Email Address",
+            "email": "dummymail@affle.com",
+            "description": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "professionalHeader": "Professional Experience",
+            "professionalExperience": "We know it’s hard to choose. The FOMO is real. Thankfully, you can have the best of both worlds – exchanges and wallets. It’s possible to easily move spending money out of an exchange into a spending wallet for your occasional bitcoin purchases. It’s also possible to store your bitcoin savings in a more secure software wallet while still getting access to the buying and selling features of bitcoin exchanges. Let us show you how.  ",
+            "expertise": [
+                "UX research",
+                "Wire framing",
+                "UX Writing",
+                "Interaction design",
+                "UI prototyping"
+            ],
+            "tools": [
+                "Adobe Xd",
+                "PhotoShop",
+                "Figma"
+            ]
+        }
+    },
+    "CROUSEL": [
+        {
+            "images": [
+                "/images/glimes_image@2x.png",
+                "/images/glimes_image@2x.png",
+                "/images/glimes_image@2x.png",
+                "/images/glimes_image@2x.png",
+                "/images/glimes_image@2x.png"
+            ]
+        }
+    ],
+    "SLIDE": [
+        {
+            "id": 0,
+            "value": "/images/sumit.jpg",
+            "text": "Clearly defined org structure with Function Heads / Leads onboard having relevant skill set based experience; Tech, Data Sciences & Analytics.",
+            "name": "Sumit Jha",
+            "role": "Group CEO"
+        },
+        {
+            "id": 1,
+            "value": "/images/amit.jpg",
+            "text": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "name": "Amit Purohit",
+            "role": "Group CEO"
+        },
+        {
+            "id": 2,
+            "value": "/images/ankit.jpg",
+            "text": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "name": "Ankit Upreti",
+            "role": "Group CEO"
+        },
+        {
+            "id": 3,
+            "value": "/images/amit_bhar.jpg",
+            "text": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "name": "Amit Bharadwaj",
+            "role": "Group CEO"
+        },
+        {
+            "id": 4,
+            "value": "/images/sahil.jpg",
+            "text": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "name": "Sahil",
+            "role": "Group CEO"
+        },
+        {
+            "iD": 5,
+            "value": "/images/pratik.jpg",
+            "text": "The vision was to recreate a physical mall’s experience in the digital space that operates on a zero-commission model and provides a safe environment.",
+            "name": "Pratik",
+            "role": "Group CEO"
+        }
+    ],
+    "FOUNDERS_MEMBERS": [
+        {
+            "images": "/images/profile_sumit.png",
+            "slug": "sumit-jha"
+        },
+        {
+            "images": "/images/profile_Amit.png ",
+            "slug": "amit-purohit"
+        },
+        {
+            "images": "/images/ankit.jpg",
+            "slug": "ankit-upreti"
+        },
+        {
+            "images": "/images/amit_bhar.jpg",
+            "slug": "amit-bhardwaj"
+        },
+        {
+            "images": "/images/sahil.jpg",
+            "slug": "sahil-ahuja"
+        },
+        {
+            "images": "/images/pratik.jpg",
+            "slug": "pratik-gosar"
+        }
+    ],
+    "BRANDCAPTION": [
+        {
+            "images": "images/harsha.png",
+            "description": "The Voice of Cricket, legendary commentator, joined the team in Aug 2020 as brand ambassador and a strategic long-term investor. The Voice of Cricket, legendary commentator, joined the team in Aug 2020 as brand ambassador and a strategic long-term investor",
+            "name": "Harsha Bhogle",
+            "role": "Brand Captain of Fantasy Akhada And Ultimate Sports Quiz"
+        },
+        {
+            "images": "images/Sunil.png",
+            "description": "The Voice of Cricket, legendary commentator, joined the team in Aug 2020 as brand ambassador and a strategic long-term investor. The Voice of Cricket, legendary commentator, joined the team in Aug 2020 as brand ambassador and a strategic long-term investor",
+            "name": "Sunil Chhetri",
+            "role": "Brand Captain of VUSport"
+        },
+        {
+            "images": "images/ABd.png",
+            "description": "The Voice of Cricket, legendary commentator, joined the team in Aug 2020 as brand ambassador and a strategic long-term investor. The Voice of Cricket, legendary commentator, joined the team in Aug 2020 as brand ambassador and a strategic long-term investor",
+            "name": "AB de Villiers",
+            "role": "Brand Captain of VUSport"
+        }
+    ],
+    "OURADVISOR": [
+        {
+            "images": "images/profile_Pawan.png",
+            "name": "Pavan Bagai",
+            "role": "Director"
+        },
+        {
+            "images": "images/profile_jogani.png",
+            "name": "Akshay Jogani",
+            "role": "Director"
+        },
+        {
+            "images": "images/profile_Joy.png",
+            "name": "Joy Bhattacharjya",
+            "role": "FIFS, Director General"
+        },
+        {
+            "images": "images/profile_Mathew.png",
+            "name": "Mathew Cyriac",
+            "role": "Angel Investor"
+        },
+        {
+            "images": "images/profile_Jayant.png",
+            "name": "Jayant",
+            "role": "Angel Investor"
+        },
+        {
+            "images": "images/profile_Pawan.png",
+            "name": "Rajesh Laddha",
+            "role": "Angel Investor"
+        }
+    ],
+    "ICON": [
+        {
+            "images": "/images/customer_centricity_icon.png",
+            "header": "Customer Centricity",
+            "subtext": "Customer first, rest will follow"
+        },
+        {
+            "images": "/images/integrity_icon.png",
+            "header": "Integrity",
+            "subtext": "Be authentic, yourself and real."
+        },
+        {
+            "images": "/images/collaboration_icon.png",
+            "header": "Collaboration",
+            "subtext": "Trust the collective genius."
+        },
+        {
+            "images": "/images/ownership_icon.png",
+            "header": "Ownership",
+            "subtext": "Act / Think like you own it."
+        }
+    ],
+    "TEAM_MEMBERS": [
+        {
+            "images": "/images/profile_Parul.png",
+            "name": "Parul J",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Harshita.png",
+            "name": "Harshita K",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Akshay.png",
+            "name": "Akshay P",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Rishav.png",
+            "name": "Rishav S",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Jakson.png",
+            "name": "Jackson B",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Rakshit.png",
+            "name": "Rakshit",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Parul.png",
+            "name": "Parul J",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Harshita.png",
+            "name": "Harshita K",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Akshay.png",
+            "name": "Akshay P",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Rishav.png",
+            "name": "Rishav S",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Jakson.png",
+            "name": "Jackson B",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Rakshit.png",
+            "name": "Rakshit",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Parul.png",
+            "name": "Parul J",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Harshita.png",
+            "name": "Harshita K",
+            "role": "Role"
+        },
+        {
+            "images": "/images/profile_Akshay.png",
+            "name": "Akshay P",
+            "role": "Role"
+        }
+    ]
+}
